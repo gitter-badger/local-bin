@@ -1,4 +1,4 @@
 local-bin
 =========
 
-My local-bin scripts
+My ~/local/bin scripts
